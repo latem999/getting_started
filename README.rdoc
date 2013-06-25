@@ -1,3 +1,3 @@
 == README
 
-This is a simple micropost blog based on {Getting Started with Rails}[http://guides.rubyonrails.org/getting_started.html] tutorial with my own minor changes.
+This is a simple blog based on {Getting Started with Rails}[http://guides.rubyonrails.org/getting_started.html] tutorial with my own minor changes.
